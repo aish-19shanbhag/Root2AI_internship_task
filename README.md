@@ -10,4 +10,4 @@ This is my submission to an internship classification task at Root2AI, completed
 - A Random Forest classifier was trained to predict the target category
 - The model was evaluated on a held-out test split
 
-See `Aishwarya_Shanbhag_Root2AI_Report.pdf` for the full write-up.
+See `Root2AI_report.pdf` for the full write-up.
